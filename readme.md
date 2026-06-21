@@ -5,3 +5,6 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
 ✅ GitHub Repository Link (Public): https://github.com/Mrm-abdullah/B7A3
 
 ✅ Interview Video Link (Public): 
+video1: https://www.youtube.com/shorts/QFzrj8rzqkg
+video2: https://www.youtube.com/shorts/a31fBn3EcT0
+video3: https://www.youtube.com/shorts/51jDEyGPn8k
